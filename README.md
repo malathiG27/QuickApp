@@ -1,4 +1,4 @@
-# **QuickApp** - ASPNET Core 2.2 / Angular 7 project template
+# **VentureLimited**
 [![MIT license](https://cdn.rawgit.com/emonney/tempa/7e9d69ad/MITLicense.png)](https://github.com/emonney/QuickApp/blob/master/LICENSE)
 
 A startup **Angular 7 / ASP.NET Core 2.2** (cross-platform ) **project template** with an end-to-end login, user and role management implementation.
